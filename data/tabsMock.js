@@ -1,19 +1,19 @@
 const tabsMock = [
   {
-    title: "Wells",
-    content: "Wells Content"
+    title: "Tab 1",
+    content: "Tab 1 Content"
   },
   {
-    title: "Countries",
-    content: "Countries content"
+    title: "Tab 2",
+    content: "Tab 2 content"
   },
   {
-    title: "Blocks",
-    content: "Blocks content"
+    title: "Tab 3",
+    content: "Tab 3 content"
   },
   {
-    title: "Companies",
-    content: "Companies content"
+    title: "Tab 4",
+    content: "Tab 4 content"
   }
 ];
 
